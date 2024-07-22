@@ -1,3 +1,4 @@
+// update
 // Click events for buttons
 const portfolio = document.getElementById("portfolio");
 const portfolioBtn = document.getElementById("portfolio-btn");
